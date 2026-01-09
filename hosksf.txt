@@ -1,1 +1,2 @@
 print("hola, soy Joseph")
+print("tengo 17 años")
